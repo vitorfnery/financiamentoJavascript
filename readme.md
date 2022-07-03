@@ -1,4 +1,4 @@
-#Projeto Financiamento
+# Projeto Financiamento
 
 Website criado com Javascript puro com o intuito de aplicar conceitos de Programação Orientada a Objetos. O site retorna o número de parcelas, valor da parcela, quanto já foi amortizado, juros pagos e saldo devedor. As entradas são o valor a ser financiado, valor de entrada, taxa de juros, prazo em meses e a opção ter ou não período de carência.
 
